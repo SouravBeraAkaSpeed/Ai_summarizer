@@ -1,4 +1,4 @@
-//Introduction
+#Introduction
 
 Article Summarizer Application using OpenAI's GPT model.
 
